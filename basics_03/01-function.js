@@ -9,7 +9,6 @@ function myName(){
     console.log("b")
     
 }
-
 // myName()
 
 function addTwoNumbers(number1,number2){
